@@ -1,1 +1,1 @@
-# karinfo.github.io
+_config.yml
